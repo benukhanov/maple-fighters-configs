@@ -1,0 +1,9 @@
+upperBound:
+  x: 100
+  y: 100
+lowerBound:
+  x: -100
+  y: -100
+gravity:
+  x: 0
+  y: 0
