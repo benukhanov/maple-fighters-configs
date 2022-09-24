@@ -42,43 +42,189 @@ scenes:
       size: *regionSize
       direction: -1
     objects:
+    # Group 1
     - name: BlueSnail
       id: -1
       type: 2 # Mob
       position:
-        x: -2.5
+        x: -3.845
         y: -8.15
       size: *regionSize
-    - name: BlueSnail
+    - name: Mushroom
       id: -2
       type: 2 # Mob
       position:
-        x: 2.85
-        y: -3.05
+        x: -1.25
+        y: -7.75
       size: *regionSize
     - name: BlueSnail
       id: -3
       type: 2 # Mob
       position:
-        x: -3.5
-        y: -3.05
+        x: -2.85
+        y: -8.15
       size: *regionSize
     - name: Mushroom
       id: -4
       type: 2 # Mob
       position:
-        x: -6.5
-        y: 3.75
+        x: -3.25
+        y: -7.75
       size: *regionSize
-    - name: Mushroom
+    - name: BlueSnail
       id: -5
       type: 2 # Mob
       position:
-        x: -0.8
-        y: 3.75
+        x: -1.85
+        y: -8.15
       size: *regionSize
-    - name: Portal
+    - name: BlueSnail
       id: -6
+      type: 2 # Mob
+      position:
+        x: -0.85
+        y: -8.15
+      size: *regionSize
+    # Group 2
+    - name: BlueSnail
+      id: -7
+      type: 2 # Mob
+      position:
+        x: -5.025
+        y: -3.05
+      size: *regionSize
+    - name: Mushroom
+      id: -8
+      type: 2 # Mob
+      position:
+        x: -4.45
+        y: -2.65
+      size: *regionSize
+    - name: BlueSnail
+      id: -9
+      type: 2 # Mob
+      position:
+        x: -3.95
+        y: -3.05
+      size: *regionSize
+    - name: Mushroom
+      id: -10
+      type: 2 # Mob
+      position:
+        x: -3.295
+        y: -2.65
+      size: *regionSize
+    - name: BlueSnail
+      id: -11
+      type: 2 # Mob
+      position:
+        x: -2.85
+        y: -3.05
+      size: *regionSize
+    - name: Mushroom
+      id: -12
+      type: 2 # Mob
+      position:
+        x: 1.515
+        y: -2.65
+      size: *regionSize
+    - name: BlueSnail
+      id: -13
+      type: 2 # Mob
+      position:
+        x: 0.95
+        y: -3.05
+      size: *regionSize
+    - name: Mushroom
+      id: -14
+      type: 2 # Mob
+      position:
+        x: 2.695
+        y: -2.65
+      size: *regionSize
+    - name: BlueSnail
+      id: -15
+      type: 2 # Mob
+      position:
+        x: 2.05
+        y: -3.05
+      size: *regionSize
+    - name: BlueSnail
+      id: -16
+      type: 2 # Mob
+      position:
+        x: 3.15
+        y: -3.05
+      size: *regionSize
+    # Group 3
+    - name: Mushroom
+      id: -17
+      type: 2 # Mob
+      position:
+        x: -6.5
+        y: 3.765
+      size: *regionSize
+    - name: BlueSnail
+      id: -18
+      type: 2 # Mob
+      position:
+        x: -5.15
+        y: 3.35
+      size: *regionSize
+    - name: Mushroom
+      id: -19
+      type: 2 # Mob
+      position:
+        x: -3.75
+        y: 3.765
+      size: *regionSize
+    - name: BlueSnail
+      id: -20
+      type: 2 # Mob
+      position:
+        x: -2.35
+        y: 3.35
+      size: *regionSize
+    - name: Mushroom
+      id: -21
+      type: 2 # Mob
+      position:
+        x: -0.95
+        y: 3.765
+      size: *regionSize
+    - name: BlueSnail
+      id: -22
+      type: 2 # Mob
+      position:
+        x: 0.45
+        y: 3.35
+      size: *regionSize
+    - name: Mushroom
+      id: -23
+      type: 2 # Mob
+      position:
+        x: 1.75
+        y: 3.765
+      size: *regionSize
+    # Group 4
+    - name: BlueSnail
+      id: -24
+      type: 2 # Mob
+      position:
+        x: 6.75
+        y: 5.895
+      size: *regionSize
+    # Group 5
+    - name: Mushroom
+      id: -25
+      type: 2 # Mob
+      position:
+        x: 11.15
+        y: 11.45
+      size: *regionSize
+    # Group 6
+    - name: Portal
+      id: -26
       type: 1 # Portal
       position:
         x: 12.5
