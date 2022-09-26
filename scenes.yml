@@ -206,25 +206,9 @@ scenes:
         x: 1.75
         y: 3.765
       size: *regionSize
-    # Group 4
-    - name: BlueSnail
-      id: -24
-      type: 2 # Mob
-      position:
-        x: 6.75
-        y: 5.895
-      size: *regionSize
-    # Group 5
-    - name: Mushroom
-      id: -25
-      type: 2 # Mob
-      position:
-        x: 11.15
-        y: 11.45
-      size: *regionSize
     # Group 6
     - name: Portal
-      id: -26
+      id: -24
       type: 1 # Portal
       position:
         x: 12.5
