@@ -1,0 +1,4 @@
+gameServices:
+  - name: Pandora
+    protocol: ws
+    url: maplefighters.io/game/
