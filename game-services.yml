@@ -1,9 +1,0 @@
-gameServices:
-  - name: Pandora
-    environment: Production
-    protocol: ws
-    url: maplefighters.io/game/
-  - name: Pandora
-    environment: Development
-    protocol: ws
-    url: localhost/game/
